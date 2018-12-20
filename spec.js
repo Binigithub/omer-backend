@@ -7,6 +7,8 @@ var cn = {
     password:'abc'
 };
 
+//new comment 
+
 var db = pgp(cn);
 
 var arr = [];
