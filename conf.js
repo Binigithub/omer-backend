@@ -3,7 +3,7 @@ exports.config ={
     directConnect:true,
     specs:['dbtest.js'],
     jasmineNodeOpts:{
-       defaultTimeoutInterval:50000
+       defaultTimeoutInterval:5000
    }
  }
 
