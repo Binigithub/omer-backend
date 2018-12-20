@@ -7,7 +7,7 @@ var cn = {
     password:'abc'
 };
 
-//new comment 
+//new comment in sepec
 
 var db = pgp(cn);
 
